@@ -1,0 +1,13 @@
+{
+  "name": "Menu_demo",
+  "productName": "Menu_Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
